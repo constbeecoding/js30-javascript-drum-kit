@@ -1,1 +1,2 @@
-# js30-javascript-drum-kit
+# Javascript 30 Day 1
+## Javascript Drum Kit
